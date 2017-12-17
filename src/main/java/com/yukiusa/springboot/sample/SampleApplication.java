@@ -11,6 +11,7 @@ public class SampleApplication {
 	 * @param args 引数
 	 */
 	public static void main(String[] args) {
+		System.out.println("Hello Topic B");
 		SpringApplication.run(SampleApplication.class, args);
 	}
 }
